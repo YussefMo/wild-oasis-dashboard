@@ -1,0 +1,13 @@
+1-react router
+2-react icons
+3-styled components
+4-supabase
+5-react query
+6-date fns
+7-react-toastify
+8-react hook form
+9-react patterns (render-props | Compound Component Pattern)
+10-filter on the clint side and server side
+11-recharts
+12-react error boundary
+13-js query matching for system dark mode
